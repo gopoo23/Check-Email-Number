@@ -12,6 +12,7 @@
 
 ## Features
 
+
 - Phone number and Email validation cbeck
 - Lightweighted
 - CSS animation
